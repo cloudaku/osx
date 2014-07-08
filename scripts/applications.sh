@@ -74,10 +74,10 @@ install_zip_app "$ACORN_APP_URL" "$ACORN_APP_FILE" "$ACORN_APP_NAME"
 # install_tar_app "$IMAGE_OPTIM_APP_URL" "$IMAGE_OPTIM_APP_FILE" "-xjf" "$IMAGE_OPTIM_APP_NAME"
 
 # VLC
-install_dmg_app "$VLC_APP_URL" "$VLC_APP_FILE" "vlc-2.1.4" "$VLC_APP_NAME"
+#install_dmg_app "$VLC_APP_URL" "$VLC_APP_FILE" "vlc-2.1.4" "$VLC_APP_NAME"
 
 # PG Admin
-install_dmg_app "$PG_ADMIN_APP_URL" "$PG_ADMIN_APP_FILE" "pgAdmin3" "$PG_ADMIN_APP_NAME"
+#install_dmg_app "$PG_ADMIN_APP_URL" "$PG_ADMIN_APP_FILE" "pgAdmin3" "$PG_ADMIN_APP_NAME"
 
 # Sequel Pro
 install_dmg_app "$SEQUEL_PRO_APP_URL" "$SEQUEL_PRO_APP_FILE" "Sequel Pro 1.0.2" "$SEQUEL_PRO_APP_NAME"
@@ -104,7 +104,7 @@ install_dmg_app "$SEQUEL_PRO_APP_URL" "$SEQUEL_PRO_APP_FILE" "Sequel Pro 1.0.2" 
 # install_zip_app "$COLLOQUY_APP_URL" "$COLLOQUY_APP_FILE" "$COLLOQUY_APP_NAME"
 
 # VirtualBox
-install_dmg_pkg "$VIRTUAL_BOX_APP_URL" "$VIRTUAL_BOX_APP_FILE" "VirtualBox" "$VIRTUAL_BOX_APP_NAME"
+#install_dmg_pkg "$VIRTUAL_BOX_APP_URL" "$VIRTUAL_BOX_APP_FILE" "VirtualBox" "$VIRTUAL_BOX_APP_NAME"
 
 # Doxie
 # install_dmg_app "$DOXIE_APP_URL" "$DOXIE_APP_FILE" "Doxie" "$DOXIE_APP_NAME"
