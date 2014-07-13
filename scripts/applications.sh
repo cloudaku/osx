@@ -8,7 +8,7 @@
 
 # EXECUTION
 # Dropbox
-install_dmg_app "$DROPBOX_APP_URL" "$DROPBOX_APP_FILE" "Dropbox Installer" "$DROPBOX_APP_NAME"
+#install_dmg_app "$DROPBOX_APP_URL" "$DROPBOX_APP_FILE" "Dropbox Installer" "$DROPBOX_APP_NAME"
 
 # Knox
 # install_zip_app "$KNOX_APP_URL" "$KNOX_APP_FILE" "$KNOX_APP_NAME"
@@ -47,7 +47,7 @@ install_dmg_app "$CANARY_APP_URL" "$CANARY_APP_FILE" "Google Chrome Canary" "$CA
 install_dmg_app "$OPERA_APP_URL" "$OPERA_APP_FILE" "Opera" "$OPERA_APP_NAME"
 
 # OmniGraffle
-install_dmg_app "$OMNIGRAFFLE_APP_URL" "$OMNIGRAFFLE_APP_FILE" "OmniGrafflePro" "$OMNIGRAFFLE_APP_NAME"
+#install_dmg_app "$OMNIGRAFFLE_APP_URL" "$OMNIGRAFFLE_APP_FILE" "OmniGrafflePro" "$OMNIGRAFFLE_APP_NAME"
 
 # Transmit
 # install_zip_app "$TRANSMIT_APP_URL" "$TRANSMIT_APP_FILE" "$TRANSMIT_APP_NAME"
@@ -113,7 +113,7 @@ install_dmg_app "$SEQUEL_PRO_APP_URL" "$SEQUEL_PRO_APP_FILE" "Sequel Pro 1.0.2" 
 install_zip_app "$APP_CLEANER_APP_URL" "$APP_CLEANER_APP_FILE" "$APP_CLEANER_APP_NAME"
 
 # Air Display
-install_zip_pkg "$AIR_DISPLAY_APP_URL" "$AIR_DISPLAY_APP_FILE" "$AIR_DISPLAY_APP_NAME"
+#install_zip_pkg "$AIR_DISPLAY_APP_URL" "$AIR_DISPLAY_APP_FILE" "$AIR_DISPLAY_APP_NAME"
 
 # Hazel (preference pane)
 # install_dmg_app "$HAZEL_APP_URL" "$HAZEL_APP_FILE" "Hazel" "$HAZEL_APP_NAME"
